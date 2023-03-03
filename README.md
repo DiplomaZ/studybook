@@ -2,7 +2,7 @@
 
 Studybook is a prototype clinical trial recruitment app designed to be eye-catching, user-friendly, and responsive. It was developed using jQuery, and LESS CSS, among other technologies.
 
-![image](https://user-images.githubusercontent.com/49468554/222857047-c321af7b-e6fe-43bf-84b5-9c7fcf870d42.png)
+[![image](https://user-images.githubusercontent.com/49468554/222857047-c321af7b-e6fe-43bf-84b5-9c7fcf870d42.png)](https://bw-clinical-trials.github.io/Marketing-Page/)
 
 <br>
 <hr>
