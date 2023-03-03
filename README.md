@@ -1,10 +1,21 @@
 # Studybook 📚💉
 
-Studybook is a prototype clinical trial recruitment app designed to be eye-catching, user-friendly, and responsive. It was developed using jQuery, Chart.js, and LESS CSS, among other technologies.
+Studybook is a prototype clinical trial recruitment app designed to be eye-catching, user-friendly, and responsive. It was developed using jQuery, and LESS CSS, among other technologies.
+
+<br>
+<hr>
+<br>
 
 
 ## Link to Live Page 🌐
+
 Click Here to view the current deploy: https://bw-clinical-trials.github.io/Marketing-Page/
+
+<br>
+<hr>
+<br>
+
+
 ## Project Structure 🏗️
 
 The project is structured as follows:
@@ -15,6 +26,11 @@ The project is structured as follows:
 - `img/`: the directory containing image files
 - `fonts/`: the directory containing font files
 - `README.md`: this file
+
+<br>
+<hr>
+<br>
+
 
 ## User Flow Process 🚶‍♂️🔄
 
@@ -27,13 +43,34 @@ The user flow process is as follows:
 6. The progress dial fills entirely to reflect form completion.
 7. The user is redirected to a page that displays the results of the form submission.
 
+
+<br>
+<hr>
+<br>
+
 ## Resources Used 🛠️
 
 The following technologies were used in the development of this project:
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 - jQuery
-- Chart.js
 - LESS CSS
+
+<br>
+<hr>
+<br>
+
+
+## Stretch Goals 🏃‍♀️
+- Responsive design for mobile devices
+- Integration with a backend for storing and retrieving form submissions
+- Improvements to accessibility and user experience
+
+<br>
+<hr>
+<br>
+
+
+## Contribution Guidelines 🤝
+Contributions to this project are welcome! If you have any bug fixes, feature improvements, or other contributions that you would like to make, please fork this repository and submit a pull request with your changes.
